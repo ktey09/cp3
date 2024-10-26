@@ -18,8 +18,8 @@ body {
 header {
     text-align: center;
     padding: 2rem 0;
-    background-color: #0056b3;
-    color: #fff;
+    background-color: #004494; /* Darker blue for better contrast */
+    color: #ffffff;
 }
 
 header h1 {
@@ -35,8 +35,8 @@ ul {
     max-width: 600px;
     margin: 0 auto;
     padding: 1rem;
-    border: 1px solid #ddd;
-    background-color: #fff;
+    border: 1px solid #ccc; /* Slightly darker gray */
+    background-color: #ffffff;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -46,19 +46,19 @@ li {
 }
 
 a {
-    color: #0056b3;
+    color: #004494; /* Darker blue for better contrast */
     text-decoration: none;
     font-weight: bold;
 }
 
 a:hover {
-    color: #003366;
+    color: #002b5a; /* Darker blue for hover */
 }
 
 footer {
     text-align: center;
     padding: 1rem;
     font-size: 0.875rem;
-    background-color: #f0f0f0;
-    color: #777;
+    background-color: #e0e0e0; /* Slightly darker background for contrast */
+    color: #555; /* Darker gray for better readability */
 }
