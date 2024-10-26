@@ -49,7 +49,7 @@ def gen_athlete_page(data, outfile):
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
        <!-- Get your own FontAwesome ID -->
-       <script src="https://kit.fontawesome.com/YOUR_ID.js" crossorigin="anonymous"></script>
+       <script src="https://kit.fontawesome.com/8855bbe0df.js" crossorigin="anonymous"></script>
 
 
       <link rel = "stylesheet" href = "../css/reset.css">
